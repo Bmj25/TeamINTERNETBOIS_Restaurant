@@ -14,7 +14,7 @@
    <label for="OrderQuantity">Quantity:</label><br><br>
    <input type="number" id="number" name="number"><br><br>
     <label for="SubmitOrder">Submit:</label><br><br>
-   <input type="button" id="button" name="Submit"><br><br>
+   <input type="Submit" id="Submit" name="Submit"><br><br>
 </form> 
 </body>
 </html>
